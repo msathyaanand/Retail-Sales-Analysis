@@ -93,7 +93,6 @@ ALTER TABLE retail_sales RENAME COLUMN quantiy TO quantity;
 -- Q9. Write a SQL query to find the number of unique customers who purchased items from each category.
 -- Q10. Write a SQL query to create each shift and number of orders ( Example: Morning<=12, Afternoon Between 12 & 17, Evening > 17)
 
-
 -- Q1. Write a SQL Query to retrieve all columns for sales made on '2022-11-05'
 
 SELECT *
